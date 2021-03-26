@@ -1,2 +1,5 @@
-# ProbGameDesign
-Probabilistic methods for Game Design - Demo scripts
+# Probabilistic methods for Game Design
+
+Demo scripts for the class.
+
+
