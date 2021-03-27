@@ -1,4 +1,4 @@
-# Probabilistic methods for Game Design
+# Probabilistic methods in Game Design
 
 Demo scripts for the class.
 Slides are [here](https://docs.google.com/presentation/d/e/2PACX-1vQX5krdR-6gpXqbrJppVgUV_jsK9FvYDAGn0uVIZOOYw9xS7ZHf9LycEAn2TtcAkUsSF3vOlMkFgMQO/pub?start=false&loop=false&delayms=60000).
